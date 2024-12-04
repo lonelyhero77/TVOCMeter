@@ -1,0 +1,1 @@
+Please print vent_hole_cover.ipt after setting slicer's infill mode
